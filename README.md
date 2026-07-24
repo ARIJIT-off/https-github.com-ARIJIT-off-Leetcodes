@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0041-first-missing-positive) |
 ## Backtracking
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
