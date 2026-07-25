@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0042-trapping-rain-water) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0041-first-missing-positive) |
 ## Backtracking
@@ -41,6 +43,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
