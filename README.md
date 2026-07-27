@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0032-longest-valid-parentheses) |
