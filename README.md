@@ -31,6 +31,7 @@
 | [0041-first-missing-positive](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0051-n-queens) |
+| [0238-product-of-array-except-self](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
