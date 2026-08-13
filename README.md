@@ -11,6 +11,7 @@
 | [0010-regular-expression-matching](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0036-valid-sudoku](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0076-minimum-window-substring) |
 ## Prefix Sum
 |  |
 | ------- |
