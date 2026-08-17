@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [3220-odd-and-even-transactions](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/3220-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
