@@ -12,6 +12,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/0076-minimum-window-substring) |
+| [3110-score-of-a-string](https://github.com/ARIJIT-off/https-github.com-ARIJIT-off-Leetcodes/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
